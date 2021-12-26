@@ -1,3 +1,5 @@
 Gitの練習をしてきます。
 基本的なワークフローを学びます。
 test
+・git add
+・git commit
